@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, peachpuff, sandybrown);
+}
+
+.cabecalho{
+    background-color: chocolate;
+    height: 6vh;
+}
+
+.titulo{
+    color:white;
+    padding: 5px;
+}
+
+.foto-principal{
+    width: 50vw;
+    height: 94vh;
+    float: left;
+}
+
+.foto-logo{
+    height: 250px;
+}
+
+.foto-produtos{
+    height: 100px;
+}
+
+.subtitulo{
+    color: chocolate;
+    margin-bottom: 30px;
+}
+
+.titulo-produtos{
+    color: chocolate;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.rodape{
+    background-color: chocolate;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50vw;
+}
+
+.titulo-rodape{
+    color: peachpuff;
+    margin-bottom: 10px;
+}
